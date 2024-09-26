@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import re
 
 # Caminho para o arquivo HTML local
-caminho_arquivo = '/alexadrez/funcoes/teste.html'
+caminho_arquivo = '\\alexadrez\\funcoes\\teste.html'
 
 def carregar_espacos(caminho_arquivo):
     try:
